@@ -8,21 +8,21 @@ Ingeniero en Software | Backend & Mobile developer
 [![Website](https://img.shields.io/github/followers/AlfredoHdez1709?style=social)][gitgub]  
 
 
-## Acerca de mi
+# Acerca de mi
+Amante de la Tecnología, geek por naturaleza, apasionado por la programación, las pizzas 😅, y enamorado de mi princesa 👨‍👩‍👧.
+
+- 📱 Mobile & 🖥 Backend developer en [99minutos.com][99min] e Ingeniero en Software en **INFIP**.
 
 
 
+[website]: https://ahrsoft.dev/
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/ahrsoft
+[linkedin]: https://www.linkedin.com/in/alfredohdezrguez/
+[instagram]: https://www.instagram.com/ahrsoft/
 
-
-
-
-[website]: https://aminespinoza.com/
-[twitter]: https://twitter.com/aminespinoza
-[youtube]: https://www.youtube.com/c/AminEspinoza
-[linkedin]: https://www.linkedin.com/in/amin-espinoza-71b24661/
-[instagram]: https://www.instagram.com/aminespinoza10/
-[facebook]: https://www.facebook.com/aminespinoza
 [gitgub]: https://github.com/AlfredoHdez1709
+[99min]: https://99minutos.com
 
 
 <!--
