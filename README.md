@@ -25,15 +25,18 @@ Amante de la Tecnología, geek por naturaleza, apasionado por la programación, 
 
 [![Website](https://img.shields.io/badge/alfredo.dev-up-green?style=for-the-badge)][website]  
 
-[<a><img width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>][youtube]
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>][instagram]
+[<a><img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>][youtube]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left"  width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>][instagram]
 <a href="mailto:alfredohdez1709@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
 </a>
-[<img width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
+[<img align="left" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
+<br>
 
-## Mis ultimos videos
+## Mis últimos videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 
