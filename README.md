@@ -21,6 +21,21 @@ Amante de la Tecnología, geek por naturaleza, apasionado por la programación, 
 - 📺 Otro dato: Tengo un canal de youtube, te dejo el enlace abajito
 
 
+## Contáctame
+
+[![Website](https://img.shields.io/badge/alfredo.dev-up-green?style=for-the-badge)][website]  
+
+[<a><img width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>][youtube]
+[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>][instagram]
+<a href="mailto:alfredohdez1709@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+[<img width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>][telegram]
+
+## Mis ultimos videos
+
+
 
 [website]: https://ahrsoft.dev/
 [twitter]: https://twitter.com/
@@ -30,4 +45,4 @@ Amante de la Tecnología, geek por naturaleza, apasionado por la programación, 
 
 [gitgub]: https://github.com/AlfredoHdez1709
 [99min]: https://99minutos.com
-
+[telegram]: https://t.me/AlfredoHdez1709
