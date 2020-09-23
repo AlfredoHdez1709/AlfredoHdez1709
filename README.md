@@ -1,5 +1,5 @@
 
-<img align="right" width="500" height="500" src="/images/profile.jpg">
+<img align="right" width="500" height="400" src="/images/profile.jpg">
 
 # Hola, Soy Alfredo Hernández 👋🏼
 
