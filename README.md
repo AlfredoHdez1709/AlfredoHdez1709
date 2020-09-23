@@ -36,6 +36,11 @@ Amante de la Tecnología, geek por naturaleza, apasionado por la programación, 
 
 ## Mis últimos videos
 <!-- YOUTUBE:START -->
+- [Android Studio #11 | Visualizar Imágenes de Internet (Picasso library )](https://www.youtube.com/watch?v=dZRvH5hDRyE)
+- [Android Studio #10 | AlertDialog](https://www.youtube.com/watch?v=fXWA94l7eQ8)
+- [Android Studio #9 | Radio Button](https://www.youtube.com/watch?v=_1tH18Jekoo)
+- [Android Studio #8 | Toggle Button](https://www.youtube.com/watch?v=YYq-zguX6BY)
+- [Android Studio #7 | Fragment](https://www.youtube.com/watch?v=JoQdou4vVIM)
 <!-- YOUTUBE:END -->
 
 
